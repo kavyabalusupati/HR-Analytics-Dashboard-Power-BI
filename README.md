@@ -90,7 +90,7 @@ HR Analytics Dashboard
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](dashboard(1).png)
 
 ## Conclusion
 
